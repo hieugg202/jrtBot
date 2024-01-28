@@ -1,0 +1,2 @@
+run = "clear && npm start"
+entrypoint = "main.sh"

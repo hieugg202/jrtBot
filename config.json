@@ -1,0 +1,175 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "NPM_FCA": "./data/fca-jrt",
+    "configApi": {
+        "domain1": "https://apis-jrt.jrtxtracy.repl.co",
+        "ninoapi": "https://jrt-api.jrtxtracy.repl.co",
+        "upanh": "https://uploadimg.jrtxtracy.repl.co",
+        "domain": "https://docs-api.jrtxtracy.repl.co",
+        "keyApi": "JRTvip_2200708248",
+        "keyApi1": "JRTvip_5678555267",
+        "upfile": "https://api-up.jrtxtracy.repl.co"
+    },
+    "ndhOnly": false,
+    "adminOnly": false,
+    "NOTIFICATION": true,
+    "allowInbox": false,
+    "autoClean": true,
+    "duyetbox": true,
+    "adminPaseOnly": false,
+    "UPTIME": 2938533.9759678724,
+    "leave": {
+        "status": false,
+        "number": 10
+    },
+    "version": "2.0.0",
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "𝙕𝙞̣𝙩𝘾𝙪𝙩𝙚🐣",
+    "PREFIX": "!",
+    "NDH": [
+        "100079132493558",
+        "100084473044514",
+        "61553313172761",
+        "100085107820576",
+        "100066426279408",
+        "100024799772088"
+    ],
+    "ADMINBOT": [
+        "100079132493558",
+        "100066426279408",
+        "61553313172761",
+        "61553683416784",
+        "100090850325324",
+        "100085107820576",
+        "61555682199679",
+        "",
+        "61553493148652",
+        "100079132493558",
+        "100037465932663",
+        "100093822845343",
+        "100085752540388",
+        "100037465932663",
+        "61553313172761",
+        "100076359056607",
+        "100093260453533"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "cnamebot": {
+        "status": false
+    },
+    "daily": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        },
+        "sendAttachments": {
+            "status": true,
+            "random": true,
+            "url": "https://i.imgur.com/LKkw8SL.jpg"
+        }
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "mirai": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "mkt": {
+        "APIKEY": "JRTvip_5678555267"
+    },
+    "nganhang": {
+        "APIKEY": "chinhdz"
+    },
+    "nhantien": {
+        "cooldownTime": 43200000
+    },
+    "nhanluot": {
+        "cooldownTime": 21600000,
+        "rewardCoin": 10000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "song": {
+        "YOUTUBE_API": "AIzaSyCe-hCIuTwonZ9fD2BG7dvU5eMoHWSaOGE",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "surprise": {
+        "log": true,
+        "out": false,
+        "kickAll": false,
+        "delThread": false
+    },
+    "tx": {
+        "timeout": 3000,
+        "core": 3,
+        "api_key": "JRTvip_2200708248"
+    },
+    "weather": {
+        "OPEN_WEATHER": "196ac91264f90df6590b46309556229f"
+    },
+    "work": {
+        "cooldownTime": 600000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    }
+}
